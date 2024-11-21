@@ -1,6 +1,6 @@
 # Gestion_Campos_Agricolas
 
-![Logo Java](https://s3.amazonaws.com/croperblog/2024/01/Gesti-n-Efectiva-de-Proyectos-Agr-colas-Tu-Camino-Hacia-el--xito-en-el-Campo.jpg)
+![Logo Java](C:\Users\Home\Downloads\lesto.jpg)
 
 Es una página web que permite gestionar eficientemente los campos agrícolas, incluyendo la administración de la información sobre los cultivos, propietarios y certificados de producción. 
 
