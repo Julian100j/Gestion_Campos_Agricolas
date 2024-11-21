@@ -4,11 +4,11 @@
 
 Es una página web que permite gestionar eficientemente los campos agrícolas, incluyendo la administración de la información sobre los cultivos, propietarios y certificados de producción. 
 
-# Ingeneria De Sistemas
 
-# Programacion orientada a objetos en Java
 
-En este repositorio se encuentra el codigo del programa requerido en cada caso de estudio.
+# Estructura de datos
+
+En este repositorio se encuentra el codigo de la pagina web Gestionar Campos Agricolas
 
 ## Autor
 
