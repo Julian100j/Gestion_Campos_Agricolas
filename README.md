@@ -10,9 +10,10 @@ Es una página web que permite gestionar eficientemente los campos agrícolas, i
 
 En este repositorio se encuentra el codigo de la pagina web Gestionar Campos Agricolas
 
-## Autor
+## Autores
 
 * **Julian Andres Ceballos Eraso**
+* * **Juan Miguel Zambrano**
 
 ## Institucion
 
@@ -20,7 +21,7 @@ En este repositorio se encuentra el codigo de la pagina web Gestionar Campos Agr
 
 ## Profesor
 
-* **Sandro Fabian Parra Pay**
+* **Wilson Andres Castillo Castro**
 
 ## Licencia
 
