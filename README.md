@@ -14,7 +14,7 @@ En este repositorio se encuentra el codigo de la pagina web Gestionar Campos Agr
 ## Autores
 
 * **Julian Andres Ceballos Eraso**
-* * **Juan Miguel Zambrano**
+*  **Juan Miguel Zambrano**
 
 ## Institucion
 
