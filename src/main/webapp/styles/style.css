@@ -1,0 +1,74 @@
+/* 
+    Created on : 22/10/2024, 10:55:27 a. m.
+    Author     : UMARIANA
+*/
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4
+}
+
+header{
+    background-color: #fff;
+    color: fff;
+    padding: 1rem;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: #444;
+    padding: 0.5rem;
+}
+
+nav a{
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: #555;
+}
+
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom : 0;
+    width: 100%;
+     
+}
+
+.container{
+    width: 30%;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: left;
+}
+
+.banner-container {
+    text-align: center;
+}
+
+.banner-container img{
+    width: 100%;
+    height:auto;
+}
+    
+h3{
+    color:steelblue;
+    text-align: center;
+}
+h3:hover{
+    color:salmon;
+}
+
+a:hover{
+    color:greenyellow
+}
+
